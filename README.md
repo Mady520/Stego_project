@@ -22,8 +22,8 @@ This Python project demonstrates how to securely hide and reveal messages within
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/secure-steg.git
-   cd secure-steg
+   git clone https://github.com/Mady520/Stego-project.git
+   cd Stego_project
 Install the required libraries:
 
 ```bash
